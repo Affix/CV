@@ -2,7 +2,6 @@
 Software Engineer
 
 Email: _contact@keiran.scot_
-Phone: _07920519790_
 Web: _http://affix.me_
 LinkedIn : _https://www.linkedin.com/in/affix_
 
@@ -36,7 +35,16 @@ I developed a Ruby based Logical Volume backup system that is unique to the busi
 
 ## Skills
 
-    * Frameworks: Ruby on Rails, Wordpress, Chef, Puppet.    * Datastores: MongoDB, PostresSQL, OracleSQL, MySQL.    * Languages: Objective-C, PHP, JavaScript, Java, Go, CoffeeScript, C, Bash, Assembly, Swift, LUA, Ruby.    * Services: nginx, Unicorn, varnish, Apache, AWS.    * Protocols: TCP, Telnet, UDP, IMAP, HTTPS, HTTP, FTP.    * Client-side: jQuery, HTML5, CSS3.    * Version control: Git, SVN.    * Testing: Cucumber, rspec, Codeception, PHPUnit, OCUnit.    * : Cocoa, Metasploit, Unreal Engine.
+    * Frameworks: Ruby on Rails, Wordpress, Chef, Puppet.
+    * Datastores: MongoDB, PostresSQL, OracleSQL, MySQL.
+    * Languages: Objective-C, PHP, JavaScript, Java, Go, CoffeeScript, C, Bash, Assembly, Swift, LUA, Ruby.
+    * Services: nginx, Unicorn, varnish, Apache, AWS.
+    * Protocols: TCP, Telnet, UDP, IMAP, HTTPS, HTTP, FTP.
+    * Client-side: jQuery, HTML5, CSS3.
+    * Version control: Git, SVN.
+    * Testing: Cucumber, rspec, Codeception, PHPUnit, OCUnit.
+    * : Cocoa, Metasploit, Unreal Engine.
+
 ## Education
 
 ### Professional Certification LPIC
