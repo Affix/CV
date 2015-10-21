@@ -35,7 +35,7 @@ I developed a Ruby based Logical Volume backup system that is unique to the busi
 
 ## Skills
 
-    * Frameworks: Ruby on Rails, Wordpress, Chef, Puppet.
+    * Frameworks: Ruby on Rails, Wordpress, Chef, Puppet, Cocoa, Metasploit, Unreal Engine.
     * Datastores: MongoDB, PostresSQL, OracleSQL, MySQL.
     * Languages: Objective-C, PHP, JavaScript, Java, Go, CoffeeScript, C, Bash, Assembly, Swift, LUA, Ruby.
     * Services: nginx, Unicorn, varnish, Apache, AWS.
@@ -43,7 +43,6 @@ I developed a Ruby based Logical Volume backup system that is unique to the busi
     * Client-side: jQuery, HTML5, CSS3.
     * Version control: Git, SVN.
     * Testing: Cucumber, rspec, Codeception, PHPUnit, OCUnit.
-    * : Cocoa, Metasploit, Unreal Engine.
 
 ## Education
 
