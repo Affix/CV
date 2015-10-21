@@ -3,7 +3,8 @@ Software Engineer
 
 Email: _contact@keiran.scot_
 Phone: _07920519790_
-Phone: _http://affix.me_
+Web: _http://affix.me_
+LinkedIn : _https://www.linkedin.com/in/affix_
 
 ## Experience
 
